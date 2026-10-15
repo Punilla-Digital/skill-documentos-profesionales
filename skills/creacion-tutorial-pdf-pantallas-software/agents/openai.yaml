@@ -1,0 +1,14 @@
+interface:
+  display_name: Creación de tutorial PDF - Pantalla de softwares
+  short_description: Tutoriales PDF con capturas y marcas rojas
+  default_prompt: Usá $creacion-tutorial-pdf-pantallas-software para crear un tutorial
+    PDF con mis capturas y la identidad de Punilla Digital.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -32,3 +32,6 @@ No inventar clientes, precios, resultados, credenciales ni fuentes. Entregar tex
 
 ## Ejemplo
 Redactá un informe de tareas a partir de estas notas.
+
+## Especialidad disponible
+Para tutoriales PDF paso a paso con capturas, leer [Creación de tutorial PDF — Pantallas de software](skills/creacion-tutorial-pdf-pantallas-software/SKILL.md) y usar sus recursos junto a ese archivo.
